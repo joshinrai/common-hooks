@@ -1,5 +1,7 @@
 # common-hooks
 
+**[文档地址](https://joshinrai.github.io/common-hooks)**
+
 ## Getting Started
 
 Install dependencies,
